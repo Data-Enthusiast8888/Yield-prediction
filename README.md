@@ -22,7 +22,8 @@ This repo blends engineering and design to deliver:
 ### Prerequisites  
 - Docker & Docker Compose  
 - Python ≥ 3.8  
-- Node.js (if using React)
+- Streamlit
+  
 
 ### Run locally  
 ```bash
