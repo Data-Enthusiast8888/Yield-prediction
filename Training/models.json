@@ -1,0 +1,6 @@
+{
+  "model": "SVM",
+  "best_score": 0.8727,
+  "cv_details": "5-fold shuffle split, stratified",
+  "comment": "High accuracy, consider as baseline"
+}
